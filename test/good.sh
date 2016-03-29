@@ -1,3 +1,0 @@
-echo good
-echo ......
-echo -------
